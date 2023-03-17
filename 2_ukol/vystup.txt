@@ -1,0 +1,2 @@
+SQL: Celkova spotreba pro cerven je 70.72498890529653 GWh (0.06 sec)
+PANDAS: Celkova spotreba pro cerven je 70.72498890529653 GWh (1.77 sec)
